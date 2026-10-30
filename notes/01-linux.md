@@ -1,0 +1,3 @@
+今天学会的命令：cd, ls, mkdir, cp, mv, rm, grep, find, chmod, tmux
+最危险命令：rm -rf，只对 sandbox 用
+今天最不懂的：...
